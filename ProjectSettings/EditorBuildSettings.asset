@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RetroRiddle.unity
+    guid: e31b0b75949469044be95bb1dcc56117
   m_configObjects: {}
